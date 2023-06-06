@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PhilippRandau
 - 👀 I’m interested in bouldering, gaming, 3d printing, photography and coding.
-- 🌱 I’m currently learning HTML, CSS, Javascript
+- 🌱 I’m currently learning Frontend: HTML, CSS/SCSS, Javascript/Typescript, Firebase and Angular. Backend (Soon): Python...
 
 
 <!---
