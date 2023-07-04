@@ -1,4 +1,5 @@
 # Hi, I’m @PhilippRandau
+- 🏠 I'm based in Villingen-Schwenningen, Germany.
 - 👀 I’m interested in bouldering, gaming, 3d printing, photography, and coding.
 - 🌱 I’m currently learning Frontend: HTML, CSS/SCSS, Javascript/Typescript, and Angular. Backend (Soon): Python... at the Developer Akademie.
 - 📫 You can reach me through the contact form on [my website](https://philipp-randau.developerakademie.net/portfolio/), there are also some links to other websites to get more information about me.
