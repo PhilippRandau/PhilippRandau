@@ -5,7 +5,7 @@
 - Right now my best projects are the [YoukaiRage](https://github.com/PhilippRandau/YoukaiRage) Game and the kanban project management tool [Join](https://github.com/PhilippRandau/Join), if you want to look through the code or try them out.
 ## Interested in working together?
 Whether you have an exciting web project you'd like to work on together or are interested in hiring me for a potential job, I look forward to hearing from you. Use the contact form to leave me a message. Let's create something great together and enhance the world of web design.
-### Need a Frontend developer? **Contact me!**
+### Need a Frontend developer? **[Contact me!](https://philipp-randau.developerakademie.net/portfolio/#contact)**
 
 <!---
 - 💞️ I’m looking to collaborate on ...
