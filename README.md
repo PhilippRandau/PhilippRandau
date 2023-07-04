@@ -1,6 +1,6 @@
 # Hi, I’m @PhilippRandau
 - 👀 I’m interested in bouldering, gaming, 3d printing, photography and coding.
-- 🌱 I’m currently learning Frontend: HTML, CSS/SCSS, Javascript/Typescript and Angular. Backend (Soon): Python...
+- 🌱 I’m currently learning Frontend: HTML, CSS/SCSS, Javascript/Typescript and Angular. Backend (Soon): Python... at the Developer Akademie.
 - 📫 You can reach me through the contact form on [my website](https://philipp-randau.developerakademie.net/portfolio/), there are linked also other websites to get more information about me.
 - My best projects right now are the [YoukaiRage](https://github.com/PhilippRandau/YoukaiRage) Game and the kanban project management tool [Join](https://github.com/PhilippRandau/Join), if you want to look through the code or try them out.
 ## Interested in working together?
